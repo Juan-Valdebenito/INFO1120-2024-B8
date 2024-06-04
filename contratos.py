@@ -1,5 +1,14 @@
-print("Hola mundo")
+import pandas as pd
+from word_gen import example_contract
+
+df=pd.read_db("db_personas.db")
 
 
 
-print("CHAO")
+
+
+
+
+    
+
+    
